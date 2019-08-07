@@ -1,0 +1,2 @@
+# How-to-Create-Simple-Stopwatch-in-HTML-CSS-with-JavaScript
+Simple Stopwatch in HTML/CSS with JavaScript This is an example of a simple stopwatch. It has the ability to keep track on an individual event, especially in a sports event. Try this yourself. This is easy to learn project.  It has 3 buttons to operate this stopwatch. These are:  Start Stop Pause Hope this simple work will help you in your future project.  Enjoy!
